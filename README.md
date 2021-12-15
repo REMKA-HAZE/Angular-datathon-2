@@ -6,5 +6,6 @@ Plataforma de pre-diagnostico de IRC(Insuficiencia Renal Crónica)
 2. El usuario da click en el botón iniciar en la parte principal de la página
 3. El usuario llena el formulario con los datos del paciente/usuario
 4. El sistema arroja el resultado del pre-diagnostico
-
+  
+**API creada en clases en 5to grado en la Universidad Tecnológica de Aguascalientes.**
 #...<3
